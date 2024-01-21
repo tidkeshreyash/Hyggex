@@ -1,0 +1,70 @@
+.icon{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 20px;
+   cursor: pointer;
+}
+
+.icon1{
+   color: white;
+   background-color: #06286E;
+   width: 1%;
+   border-radius: 50%;
+   padding: 10px;
+   position: absolute;
+   left: 550px;
+}
+
+.icon2{
+    color: white;
+    background-color: #06286E;
+    width: 1%;
+    border-radius: 50%;
+    padding: 10px;
+    position: absolute;
+    left: 730px;
+ }
+
+ .icon3{
+    color: white;
+    padding: 10px;
+    position: absolute;
+    top: 288px;
+    left: 910px;
+ }
+
+ .icon4{
+    color: white;
+    padding: 10px;
+    position: absolute;
+    top: 290px;
+    left: 350px;
+ }
+ .icon5{
+    color: blue;
+    font-size: 20px;
+    padding: 10px;
+    position: absolute;
+    left: 350px;
+ }
+ .icon6{
+    color: blue;
+    font-size: 20px;
+    padding: 10px;
+    position: absolute;
+    left: 910px;
+ }
+
+ .txt{
+   position: absolute;
+   top: 614px;
+   left: 1088px;
+   cursor: pointer;
+ }
+ .icon7{
+   color: white;
+   background-color: #06286E;
+   border-radius: 50%;
+   cursor: pointer;
+ }
